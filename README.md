@@ -18,7 +18,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 ## Como Utilizar
 ```
 1. - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/financing-simulation.git
+$ git clone https://github.com/ale-mouraboni/financing-simulation-igti.git
 
 2. - Abra o index.html
 ```
@@ -38,4 +38,3 @@ Também tenho um repositório dedicado apenas a os códigos, desafios, testes e 
 
 ## License
 This project is under the MIT license. See the [LICENSE] for more information.
-
